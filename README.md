@@ -76,5 +76,3 @@
 ![하드웨어 구성도](https://github.com/user-attachments/assets/91b90fa0-52f4-4b97-b634-73f0a8b68c34)
 
 ---
-
-이제 가독성이 더 좋아졌을 거야. 필요하면 더 수정할 부분 알려줘! 😊
