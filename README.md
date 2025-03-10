@@ -1,8 +1,5 @@
 # 🚦 스마트 AI 신호등 - GreenLight
 
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 ---
 
 ## 📌 프로젝트 소개
@@ -21,7 +18,10 @@
 ---
 
 ## 🖼️ 로고 및 이미지
-<img src="https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35" width="300" align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35" width="300">
+</p>
+
 
 ---
 
