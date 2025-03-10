@@ -36,8 +36,8 @@
 
 ---
 
-## 📑 화면 구성 및 API 주소
-- [API 문서 링크](https://example.com/api-docs)
+## 📑 화면 구성
+
 - **화면 구성**:
   - **메인 화면**: AI 객체 감지에 따른 신호등 제어 및 위반 차량 경고
   - **분석 화면**: 차량 및 보행자 데이터 시각화 대시보드
@@ -62,19 +62,8 @@
 
 ---
 
-## 🔧 아키텍처 및 폴더 구조
-```plaintext
-smart-ai-traffic-light/
-│  ├── public/               # 정적 파일
-│  ├── src/                  # 소스 코드
-│  │   ├── components/       # 공통 컴포넌트
-│  │   ├── pages/            # 페이지 단위 컴포넌트
-│  │   ├── api/              # API 호출 로직
-│  │   ├── utils/            # 유틸 함수
-│  │   └── App.js            # 메인 엔트리 파일
-│  ├── backend/              # Django 백엔드
-│  │   ├── models/           # 데이터 모델 정의
-│  │   ├── views/            # API 엔드포인트 정의
-│  │   ├── serializers/      # 데이터 직렬화
-│  │   └── urls.py           # URL 라우팅
-└── README.md                # 프로젝트 설명 파일
+## 🔧 프로젝트 구성도
+![image15](https://github.com/user-attachments/assets/47f389f0-d1a7-42ba-8087-f369a52cd82d)
+
+
+
