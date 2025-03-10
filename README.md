@@ -20,9 +20,8 @@
 ---
 
 ## 📷 로고 및 이미지
-<p align="center">
-  <img src="이미지_경로" alt="프로젝트 로고" width="300">
-</p>
+![GreenLight](https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35)
+
 
 ---
 
@@ -63,7 +62,13 @@
 ---
 
 ## 🔧 프로젝트 구성도
+
+1. 소프트웨어 구성도
 ![image15](https://github.com/user-attachments/assets/47f389f0-d1a7-42ba-8087-f369a52cd82d)
 
+2. 서비스 흐름도: 신호 체계 로직
+![image14](https://github.com/user-attachments/assets/84bf46c6-4ff1-4384-8699-4cb244e7c724)
 
+3. 하드웨어 구성도
+![image16](https://github.com/user-attachments/assets/91b90fa0-52f4-4b97-b634-73f0a8b68c34)
 
