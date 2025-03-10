@@ -21,7 +21,7 @@
 ---
 
 ## 🖼️ 로고 및 이미지
-<img src="https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35" width="300">
+<img src="https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35" width="300" align="center">
 
 ---
 
