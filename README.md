@@ -21,7 +21,7 @@
 ---
 
 ## 🖼️ 로고 및 이미지
-![GreenLight](https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35)
+<img src="https://github.com/user-attachments/assets/5bf3d89f-c13e-4925-874c-a70cc746de35" width="300">
 
 ---
 
@@ -38,10 +38,10 @@
 ---
 
 ## 📑 주요 화면 구성
-- **메인 화면**: AI 객체 감지에 따른 신호등 제어 및 위반 차량 경고
-- **분석 화면**: 차량 및 보행자 데이터 시각화 대시보드
-- **관리자 화면**: 교통 데이터 관리 및 통계 확인
-- **설정 화면**: 음성 알림 및 신호 제어 설정
+- **분석 화면**: 차량 및 보행자 데이터 시각화 및 관리 대시보드
+  ![image17](https://github.com/user-attachments/assets/42dca3ad-4a79-4498-9181-7556bd703c62)
+
+
 
 ---
 
